@@ -55,17 +55,17 @@ src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumBarunGothic-Y
 
 @font-face {
     font-family: 'NanumGothic';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothic.woff2') format('font-woff2');
 }
 
 @font-face {
     font-family: 'NanumGothicBold';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicBold.woff2') format('font-woff2');
 }
 
 @font-face {
     font-family: 'NanumGothicExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicExtraBold.woff2') format('font-woff2');
 }
 
 @font-face {
