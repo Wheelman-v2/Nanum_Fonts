@@ -209,26 +209,26 @@ src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumBarunGothic-Y
 }
 
 @font-face {
-    font-family: 'MyWebFont';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/.woff2') format('woff2');
+    font-family: 'MaruBuri-ExtraLight';
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-ExtraLight.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MyWebFont';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/.woff2') format('woff2');
+    font-family: 'MaruBuri-Light';
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MyWebFont';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/.woff2') format('woff2');
+    font-family: 'MaruBuri-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MyWebFont';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/.woff2') format('woff2');
+    font-family: 'MaruBuri-SemiBold';
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-SemiBold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MyWebFont';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/.woff2') format('woff2');
+    font-family: 'MaruBuri-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Bold.woff2') format('woff2');
 }
