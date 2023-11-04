@@ -80,6 +80,13 @@ src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumBarunGothic-Y
 }
 
 @font-face {
+    font-family: 'NanumGothicExtraBold_Old';
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicExtraBold_Old.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'NanumGothicEco';
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicEco.woff2') format('woff2');
 }
