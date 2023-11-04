@@ -66,6 +66,13 @@ src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumBarunGothic-Y
 }
 
 @font-face {
+    font-family: 'NanumGothicBold_Old';
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicBold_Old.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'NanumGothicExtraBold';
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicExtraBold.woff2') format('woff2');
     font-weight: 800;
