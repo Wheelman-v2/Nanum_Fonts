@@ -211,27 +211,32 @@ src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumBarunGothic-Y
 
 @font-face {
     font-family: 'MaruBuri-ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-ExtraLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-ExtraLight.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'MaruBuri-Light';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Light.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'MaruBuri-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Regular.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'MaruBuri-SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-SemiBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-SemiBold.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'MaruBuri-Bold';
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/MaruBuri_v2.0/MaruBuri-Bold.woff2') format('woff2');
 }
 
 @font-face {
