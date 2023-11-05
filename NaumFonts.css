@@ -60,21 +60,13 @@ src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumBarunGothic-Y
 
 @font-face {
     font-family: 'NanumGothicBold';
-    src:url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicBold.eot')
-    src:url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicBold.eot?#iefix') format('embedded-opentype'); 
-        url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicBold.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
+    src:url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicBold.otf') format('opentype');
 }
 
 
 @font-face {
     font-family: 'NanumGothicExtraBold';
-    src:url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicExtraBold.eot')
-    src:url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicExtraBold.eot?#iefix') format('embedded-opentype'); 
-        url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicExtraBold.woff2') format('woff2');
-    font-weight: 800;
-    font-style: normal;
+    src:url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Nanum_Fonts/NanumGothic_v1.0/NanumGothicExtraBold.otf') format('opentype');
 }
 
 @font-face {
